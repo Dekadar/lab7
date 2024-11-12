@@ -1,0 +1,21 @@
+.content {
+    flex-grow: 1;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+.carousel-item img {
+    max-width: 500px; 
+    max-height: 500px; 
+    width: auto; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 10px;
+}
+.al {
+    position: absolute;
+    bottom: 0;
+    
+}
